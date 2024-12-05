@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrManagement", "HrManagement\HrManagement.csproj", "{798DBB33-1E18-4255-88E4-239D7EE6D820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrManagement.DataAccess", "HrManagement.DataAccess\HrManagement.DataAccess.csproj", "{D88C198D-C850-4E46-93C6-B804CF44A393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798DBB33-1E18-4255-88E4-239D7EE6D820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798DBB33-1E18-4255-88E4-239D7EE6D820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798DBB33-1E18-4255-88E4-239D7EE6D820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798DBB33-1E18-4255-88E4-239D7EE6D820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88C198D-C850-4E46-93C6-B804CF44A393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88C198D-C850-4E46-93C6-B804CF44A393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88C198D-C850-4E46-93C6-B804CF44A393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88C198D-C850-4E46-93C6-B804CF44A393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

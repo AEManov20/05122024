@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace HrManagement.DataAccess.Models;
 
-public partial class Project
+public partial class Project : IBaseModel
 {
     public int Id { get; set; }
 

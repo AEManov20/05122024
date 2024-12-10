@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace HrManagement.DataAccess.Models;
 
-public partial class Department
+public partial class Department : IBaseModel
 {
     public int Id { get; set; }
 
